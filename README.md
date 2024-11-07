@@ -7,3 +7,5 @@ I'm starting out by looking at these two books [OCaml Programming: Correct + Eff
  * [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html#)
  * [Real World OCaml](https://dev.realworldocaml.org/index.html)
  * [OCaml from the Very Beginning](https://ocaml-book.com/)
+ * [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml)
+ * [Manual](https://ocaml.org/manual/5.0/index.html)
